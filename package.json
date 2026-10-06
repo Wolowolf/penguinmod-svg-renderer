@@ -20,7 +20,7 @@
     "url": "https://github.com/PenguinMod/penguinmod-svg-renderer.git"
   },
   "peerDependencies": {
-    "scratch-render-fonts": "github:PenguinMod/penguinmod-render-fonts#master"
+    "scratch-render-fonts": "github:Wolowolf/penguinmod-render-fonts#4dda62c707f64505266aa62f7a6cc84f0e5812fd"
   },
   "dependencies": {
     "@turbowarp/nanolog": "^0.2.0",
